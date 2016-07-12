@@ -12,4 +12,10 @@ In Visual Studio 2015
 5. Create a new x64 C# project
 6. Add hotrodcs.dll as reference
 
+For queries only
+
+7. Use the protoc.exe, it matches the libray version
+8. install Google.Protobuf.dll into the GAC
+
+
 Enjoy!
